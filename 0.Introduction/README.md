@@ -51,5 +51,5 @@
 ### Development Basics:
 - Essential tools: Text editor and a web browser.
 - Advanced tools/environments are optional for simplifying development.
-==============================================================================================
+=======================================================================
 *Happy Coding*
